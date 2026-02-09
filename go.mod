@@ -3,7 +3,7 @@ module github.com/mlund01/plugin_playwright
 go 1.23.0
 
 require (
-	github.com/mlund01/squad-sdk v0.0.1
+	github.com/mlund01/squadron-sdk v0.0.3
 	github.com/playwright-community/playwright-go v0.5200.1
 )
 
